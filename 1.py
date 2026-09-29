@@ -11,7 +11,8 @@ print("===== converts temperature =====")
 value = int(input("masukkan value:"))
 unit = input("masukkan unit: ")
 
-
+hasil = converts_temperature(value, unit)
+print("hasil konversi:",)
 
 
 
