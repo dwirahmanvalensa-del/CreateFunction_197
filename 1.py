@@ -6,6 +6,12 @@ def converts_temperature(value, unit) :
     else:
         print("tidak ada unit selain 'C' atau 'F' ")
 
+print("===== converts temperature =====")
+
+value = int(input("masukkan value:"))
+unit = input("masukkan unit: ")
+
+
 
 
 
